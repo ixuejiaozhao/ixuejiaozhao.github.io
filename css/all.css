@@ -474,3 +474,27 @@ li.pub-item {
 .other-list li{
     margin-bottom:4px;
 }
+
+.visitor-map {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding: 0;
+    line-height: normal;
+}
+
+#footer,
+.footer {
+    min-height: 40px;
+    height: 40px;
+    overflow: visible;
+    line-height: 0.5;
+    padding: 20px 0;
+}
+
+#footer .container {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 100%;
+}
