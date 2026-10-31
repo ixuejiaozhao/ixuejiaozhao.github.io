@@ -1,8 +1,48 @@
-@article{bai2025online,
-  title={Online-PVLM: Advancing Personalized VLMs with Online Concept Learning},
-  author={Bai, Huiyu and Wang, Runze and Du, Zhuoyun and Zhao, Yiyang and Zhang, Fengji and Chen, Haoyu and Zhu, Xiaoyong and Zheng, Bo and Zhao, Xuejiao},
-  journal={arXiv preprint arXiv:2511.20056},
-  year={2025}
+@article{chen2026cognivia,
+  title={Cognivia: A Cognitive Behavioral Therapy Copilot for Evidence-Based Mental Healthcare},
+  author={Chen, Qi and Luo, Siria Xiyueyao and Wang, Jian and Shi, Yuan and Rao, Haocong and Zhao, Xuejiao},
+  journal={arXiv preprint arXiv:2607.25681},
+  year={2026}
+}
+
+@inproceedings{zhao2026gem,
+  title={GEM: Generative Entropy-Guided Preference Modeling for Few-Shot Alignment of LLMs},
+  author={Zhao, Yiyang and Bai, Huiyu and Zhao, Xuejiao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={44},
+  pages={38146--38155},
+  year={2026}
+}
+
+@article{ZHAO2026116645,
+title = {Causally-motivated generative few-shot reward inference through efficient DPO},
+author = {Yiyang Zhao and Zhiqi Shen and Xuejiao Zhao},
+journal = {Knowledge-Based Systems},
+volume = {351},
+pages = {116645},
+year = {2026},
+issn = {0950-7051}
+}
+
+@misc{zhao2025gfriendgenerativefewshotreward,
+      title={GFRIEND: Generative Few-shot Reward Inference through EfficieNt DPO}, 
+      author={Yiyang Zhao and Huiyu Bai and Xuejiao Zhao},
+      year={2025},
+      eprint={2506.08965},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2506.08965}, 
+}
+
+@inproceedings{yang2026ehrstruct,
+  title={EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Structured Electronic Health Record Tasks},
+  author={Yang, Xiao and Zhao, Xuejiao and Shen, Zhiqi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={40},
+  pages={34340--34348},
+  year={2026}
 }
 
 @inproceedings{zhao2025medrag,
@@ -20,6 +60,34 @@
                Artificial Intelligence, {IJCAI-25}},
   pages     = {11132--11136},
   year      = {2025}
+}
+
+@article{YANG2026116595,
+title = {Are heterogeneous graph neural networks truly effective for node classification? A causal perspective},
+author = {Xiao Yang and Xuejiao Zhao and Zhiqi Shen},
+journal = {Knowledge-Based Systems},
+volume = {351},
+pages = {116595},
+year = {2026},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2026.116595}
+}
+
+@inproceedings{yang2025generalizable,
+  title={A generalizable anomaly detection method in dynamic graphs},
+  author={Yang, Xiao and Zhao, Xuejiao and Shen, Zhiqi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={20},
+  pages={22001--22009},
+  year={2025}
+}
+
+@article{bai2025online,
+  title={Online-PVLM: Advancing Personalized VLMs with Online Concept Learning},
+  author={Bai, Huiyu and Wang, Runze and Du, Zhuoyun and Zhao, Yiyang and Zhang, Fengji and Chen, Haoyu and Zhu, Xiaoyong and Zheng, Bo and Zhao, Xuejiao},
+  journal={arXiv preprint arXiv:2511.20056},
+  year={2025}
 }
 
 @article{zhao2021brain,
@@ -41,16 +109,6 @@
   pages={101447},
   year={2022},
   publisher={Elsevier}
-}
-
-@inproceedings{yang2025generalizable,
-  title={A generalizable anomaly detection method in dynamic graphs},
-  author={Yang, Xiao and Zhao, Xuejiao and Shen, Zhiqi},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39},
-  number={20},
-  pages={22001--22009},
-  year={2025}
 }
 
 @article{lee2024data,
@@ -164,31 +222,4 @@ issn = {0893-6080}
   pages={5004},
   year={2019},
   publisher={MDPI}
-}
-
-@inproceedings{yang2026ehrstruct,
-  title={EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Structured Electronic Health Record Tasks},
-  author={Yang, Xiao and Zhao, Xuejiao and Shen, Zhiqi},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={40},
-  number={40},
-  pages={34340--34348},
-  year={2026}
-}
-
-@inproceedings{zhao2026gem,
-  title={GEM: Generative Entropy-Guided Preference Modeling for Few-Shot Alignment of LLMs},
-  author={Zhao, Yiyang and Bai, Huiyu and Zhao, Xuejiao},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={40},
-  number={44},
-  pages={38146--38155},
-  year={2026}
-}
-
-@article{chen2026cognivia,
-  title={Cognivia: A Cognitive Behavioral Therapy Copilot for Evidence-Based Mental Healthcare},
-  author={Chen, Qi and Luo, Siria Xiyueyao and Wang, Jian and Shi, Yuan and Rao, Haocong and Zhao, Xuejiao},
-  journal={arXiv preprint arXiv:2607.25681},
-  year={2026}
 }
